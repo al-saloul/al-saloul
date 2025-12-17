@@ -3,6 +3,8 @@
 ## 🧑‍💻 About Me  
 I’m **Mohammed Al-Saloul**, a **Full Stack Web Developer** and **Web Designer** with **7+ years of experience** in designing, developing, and deploying scalable web applications. I specialize in **PHP (Laravel, Laravel API)** and **modern front-end technologies** like **Vue.js** and **TypeScript**.  
 
+[![wakatime](https://wakatime.com/badge/user/916d43ef-c2dd-4f21-80e7-98655c7b3977.svg)](https://wakatime.com/@916d43ef-c2dd-4f21-80e7-98655c7b3977)
+
 I am passionate about **solving complex problems**, **optimizing system performance**, and **creating innovative digital solutions**. I thrive in high-pressure environments, delivering efficient, secure, and high-quality software.  
 
 ## 🚀 Key Skills  
