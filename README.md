@@ -25,8 +25,6 @@ I am passionate about **solving complex problems**, **optimizing system performa
 ## 🔥 Community Contributions  
 I actively contribute to **open-source projects** on GitHub, including **custom Laravel packages** and **npm tools**. I’m also a member of the **Yemen Open Source Community**.  
 
-## 📫 Let’s Connect  
-- **GitHub:** [github.com/al-saloul](https://github.com/al-saloul)  
-- **LinkedIn:** [linkedin.com/in/mohammed-alsaloul-05299922b](https://www.linkedin.com/in/mohammed-alsaloul-05299922b)  
-- **Facebook:** [facebook.com/profile.php?id=100006472960530](https://www.facebook.com/profile.php?id=100006472960530)  
-- **Email:** eng.alsaloul.mohammed@gmail.com  
+![al-saloul's Stats](https://github-readme-stats.vercel.app/api?username=al-saloul&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![al-saloul's Streak](https://github-readme-streak-stats.herokuapp.com/?user=al-saloul&theme=vue-dark&hide_border=true)
+![al-saloul's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=al-saloul&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
